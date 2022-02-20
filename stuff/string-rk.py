@@ -6,7 +6,7 @@ def str_hash(s):
     return res
 
 if __name__ == '__main__':
-    s = 'dontbesooptimisticabouteverything'
+    s = 'sooptsoooooosssssoopt'
     p = 'soopt'
     p_hash = str_hash(p)
     s_hash = str_hash(s[:len(p)])
